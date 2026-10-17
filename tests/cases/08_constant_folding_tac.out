@@ -1,0 +1,3 @@
+   0      PRINT 14                        ; line 1
+   1      HALT
+; optimizer: 2 folded, 2 propagated, 2 removed, 4 round(s)

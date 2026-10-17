@@ -1,0 +1,6 @@
+Semantic error at line 2, col 5: condition of 'if' must be of type 'bool', got 'int'
+ 2 | if (n) {
+   |     ^
+Semantic error at line 5, col 10: condition of 'while' must be of type 'bool', got 'int'
+ 5 | while (n + 1) {
+   |          ^

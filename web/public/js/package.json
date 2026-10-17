@@ -1,0 +1,4 @@
+{
+  "//": "Lets Node import these browser modules (web/test_lessons.mjs).",
+  "type": "module"
+}

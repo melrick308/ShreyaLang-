@@ -1,0 +1,3 @@
+Semantic error at line 1, col 7: undeclared variable 'missing'
+ 1 | print(missing);
+   |       ^

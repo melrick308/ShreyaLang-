@@ -1,0 +1,3 @@
+Runtime error at line 3, col 11: integer overflow
+ 3 | print(big + 1);
+   |           ^

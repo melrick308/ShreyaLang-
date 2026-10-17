@@ -1,0 +1,3 @@
+Runtime error at line 2, col 22: division by zero
+ 2 | let unused: int = (1 / 0) * 0;
+   |                      ^

@@ -1,0 +1,4 @@
+   0      t1 = 10 DIV 0                   ; line 1
+   1      PRINT t1                        ; line 1
+   2      HALT
+; optimizer: 0 folded, 0 propagated, 0 removed, 1 round(s)

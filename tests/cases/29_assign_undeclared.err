@@ -1,0 +1,3 @@
+Semantic error at line 1, col 1: assignment to undeclared variable 'total'
+ 1 | total = 1;
+   | ^

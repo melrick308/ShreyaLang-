@@ -1,0 +1,3 @@
+Semantic error at line 3, col 1: cannot assign a value of type 'float' to variable 'i' of type 'int'
+ 3 | i = f;
+   | ^

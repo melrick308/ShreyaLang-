@@ -1,0 +1,3 @@
+Semantic error at line 2, col 5: variable 'x' is already declared in this scope (line 1)
+ 2 | let x: int = 2;
+   |     ^

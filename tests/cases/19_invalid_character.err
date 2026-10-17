@@ -1,0 +1,3 @@
+Lexical error at line 2, col 16: invalid character '@'
+ 2 | let b: int = a @ 2;
+   |                ^

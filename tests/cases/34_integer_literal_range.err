@@ -1,0 +1,3 @@
+Lexical error at line 1, col 14: integer literal '9223372036854775808' is out of range
+ 1 | let x: int = 9223372036854775808;
+   |              ^

@@ -1,0 +1,15 @@
+   0      x = 5                           ; line 4
+   1      i = 0                           ; line 5
+   2      PRINT 5                         ; line 6
+   3  L1:                                 ; line 7
+   4      t2 = i LT 3                     ; line 7
+   5      IF_FALSE t2, L2                 ; line 7
+   6      t3 = x ADD 1                    ; line 8
+   7      x = t3                          ; line 8
+   8      t4 = i ADD 1                    ; line 9
+   9      i = t4                          ; line 9
+  10      GOTO L1                         ; line 7
+  11  L2:                                 ; line 7
+  12      PRINT x                         ; line 11
+  13      HALT
+; optimizer: 1 folded, 2 propagated, 1 removed, 3 round(s)

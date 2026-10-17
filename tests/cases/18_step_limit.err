@@ -1,0 +1,3 @@
+Runtime error at line 1, col 1: execution limit exceeded (1000 steps)
+ 1 | while (true) {}
+   | ^

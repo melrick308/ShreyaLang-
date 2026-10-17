@@ -1,0 +1,10 @@
+print(2.0);
+print(0.5 + 0.25);
+print(1.0 / 3);
+print(10 / 4.0);
+print(true);
+print(!true);
+print("tab:\t|quote:\"|backslash:\\|");
+print("line1\nline2");
+print(1 < 2.5);
+print(3 == 3.0);

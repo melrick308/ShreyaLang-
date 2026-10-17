@@ -1,0 +1,26 @@
+1:1     LET         let
+1:5     IDENT       s
+1:6     COLON       :
+1:8     STRING      string
+1:15    ASSIGN      =
+1:17    STRING_LIT  "hi\n"
+1:23    SEMICOLON   ;
+2:1     IF          if
+2:4     LPAREN      (
+2:5     IDENT       s
+2:7     NE          !=
+2:10    STRING_LIT  "x"
+2:14    AND         &&
+2:17    FLOAT_LIT   2.5
+2:21    GE          >=
+2:24    INT_LIT     1
+2:25    RPAREN      )
+2:27    LBRACE      {
+2:29    PRINT       print
+2:34    LPAREN      (
+2:35    MINUS       -
+2:36    IDENT       s
+2:37    RPAREN      )
+2:38    SEMICOLON   ;
+2:40    RBRACE      }
+3:1     EOF

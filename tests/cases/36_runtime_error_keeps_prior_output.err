@@ -1,0 +1,3 @@
+Runtime error at line 3, col 14: division by zero
+ 3 |     print(12 / d);
+   |              ^

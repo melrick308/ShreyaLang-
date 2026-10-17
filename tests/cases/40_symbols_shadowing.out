@@ -1,0 +1,6 @@
+Scope 0 (global)
+  x     int     line 1     tac x
+Scope 1 (parent 0, depth 1, block at line 2)
+  x     int     line 3     tac x#2
+Scope 2 (parent 1, depth 2, block at line 5)
+  x     string  line 6     tac x#3

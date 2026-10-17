@@ -1,0 +1,11 @@
+Program
+  VarDecl a: int @1:5
+    Literal int 10 @1:14
+  VarDecl b: int @2:5
+    Literal int 5 @2:14
+  Print @3:1
+    Binary + @3:9
+      VarRef a @3:7
+      Binary * @3:13
+        VarRef b @3:11
+        Literal int 2 @3:15

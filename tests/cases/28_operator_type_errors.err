@@ -1,0 +1,21 @@
+Semantic error at line 3, col 9: operator '+' cannot be applied to operands of type 'string' and 'string'
+ 3 | print(s + s);
+   |         ^
+Semantic error at line 4, col 11: operator '%' cannot be applied to operands of type 'float' and 'int'
+ 4 | print(1.5 % 2);
+   |           ^
+Semantic error at line 5, col 9: operator '&&' cannot be applied to operands of type 'int' and 'bool'
+ 5 | print(1 && b);
+   |         ^
+Semantic error at line 6, col 7: operator '-' cannot be applied to an operand of type 'bool'
+ 6 | print(-b);
+   |       ^
+Semantic error at line 7, col 7: operator '!' cannot be applied to an operand of type 'int'
+ 7 | print(!1);
+   |       ^
+Semantic error at line 8, col 9: operator '==' cannot be applied to operands of type 'bool' and 'int'
+ 8 | print(b == 1);
+   |         ^
+Semantic error at line 9, col 21: operator '<' cannot be applied to operands of type 'bool' and 'int'
+ 9 | let c: bool = 1 < 2 < 3;
+   |                     ^

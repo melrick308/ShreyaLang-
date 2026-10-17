@@ -1,0 +1,9 @@
+Lexical error at line 1, col 14: malformed number '12abc'
+ 1 | let a: int = 12abc;
+   |              ^
+Lexical error at line 2, col 16: malformed number '1.2.3'
+ 2 | let b: float = 1.2.3;
+   |                ^
+Lexical error at line 3, col 16: invalid character '#'
+ 3 | let c: int = 1 # 2;
+   |                ^
